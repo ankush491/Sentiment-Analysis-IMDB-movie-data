@@ -19,28 +19,28 @@ Key Features-
 
 Technologies Used-
 
-Python for data analysis and modeling.
+1. Python for data analysis and modeling.
 
-Pandas for data manipulation.
+2. Pandas for data manipulation.
 
-Scikit-learn for machine learning algorithms and model evaluation.
+3. Scikit-learn for machine learning algorithms and model evaluation.
 
-NLTK for Natural Language Processing tasks.
+4. NLTK for Natural Language Processing tasks.
 
-TensorFlow/Keras (optional) for deep learning models (if implemented).
+5. TensorFlow/Keras (optional) for deep learning models (if implemented).
 
-Matplotlib/Seaborn for data visualization.
+6. Matplotlib/Seaborn for data visualization.
 
  
 How It Works-
 
-Data Loading: The IMDB dataset is loaded and split into training and test sets.
+1. Data Loading: The IMDB dataset is loaded and split into training and test sets.
 
-Data Preprocessing: Textual data is cleaned, tokenized, and transformed into vectors.
+2. Data Preprocessing: Textual data is cleaned, tokenized, and transformed into vectors.
 
-Model Training: The model is trained on the training set, and hyperparameters are tuned to improve accuracy.
+3. Model Training: The model is trained on the training set, and hyperparameters are tuned to improve accuracy.
 
-Model Evaluation: The model is tested on the unseen test data, and various performance metrics are calculated to assess its effectiveness.
+4. Model Evaluation: The model is tested on the unseen test data, and various performance metrics are calculated to assess its effectiveness.
 
 
 Future Work-
